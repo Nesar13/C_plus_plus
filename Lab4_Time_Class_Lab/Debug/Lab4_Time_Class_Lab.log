@@ -1,0 +1,7 @@
+﻿  Time_Class_Lab.cpp
+c:\users\class2017\documents\visual studio 2015\projects\cs570\lab4_time_class_lab\time_class_lab.cpp(50): error C2371: 'h': redefinition; different basic types
+  c:\users\class2017\documents\visual studio 2015\projects\cs570\lab4_time_class_lab\time_class_lab.cpp(42): note: see declaration of 'h'
+c:\users\class2017\documents\visual studio 2015\projects\cs570\lab4_time_class_lab\time_class_lab.cpp(50): error C2371: 'm': redefinition; different basic types
+  c:\users\class2017\documents\visual studio 2015\projects\cs570\lab4_time_class_lab\time_class_lab.cpp(42): note: see declaration of 'm'
+c:\users\class2017\documents\visual studio 2015\projects\cs570\lab4_time_class_lab\time_class_lab.cpp(50): error C2371: 's': redefinition; different basic types
+  c:\users\class2017\documents\visual studio 2015\projects\cs570\lab4_time_class_lab\time_class_lab.cpp(42): note: see declaration of 's'

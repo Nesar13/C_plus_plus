@@ -1,0 +1,8 @@
+﻿  mainsearch.cpp
+c:\users\class2017\documents\visual studio 2015\projects\cs570\triearticles\mainsearch.cpp(94): warning C4018: '<': signed/unsigned mismatch
+c:\users\class2017\documents\visual studio 2015\projects\cs570\triearticles\mainsearch.cpp(103): warning C4018: '<': signed/unsigned mismatch
+c:\users\class2017\documents\visual studio 2015\projects\cs570\triearticles\mainsearch.cpp(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\class2017\documents\visual studio 2015\projects\cs570\triearticles\mainsearch.cpp(122): warning C4018: '<': signed/unsigned mismatch
+c:\users\class2017\documents\visual studio 2015\projects\cs570\triearticles\mainsearch.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\class2017\documents\visual studio 2015\projects\cs570\triearticles\mainsearch.cpp(145): warning C4018: '<': signed/unsigned mismatch
+  TrieArticles.vcxproj -> C:\Users\Class2017\documents\visual studio 2015\Projects\CS570\Debug\TrieArticles.exe

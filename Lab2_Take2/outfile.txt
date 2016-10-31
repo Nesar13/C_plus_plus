@@ -1,0 +1,3 @@
+The number of one letter words is: 0
+The number of two letter words is: 1
+The number of three of more letter words is: 5

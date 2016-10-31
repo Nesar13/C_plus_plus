@@ -1,0 +1,4 @@
+﻿  Lab_Vectors.cpp
+c:\users\class2017\documents\visual studio 2015\projects\cs570\lab3_vectors\lab_vectors.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\class2017\documents\visual studio 2015\projects\cs570\lab3_vectors\lab_vectors.cpp(82): warning C4018: '<': signed/unsigned mismatch
+  Lab3_Vectors.vcxproj -> C:\Users\Class2017\documents\visual studio 2015\Projects\CS570\Debug\Lab3_Vectors.exe
